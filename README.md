@@ -1,6 +1,7 @@
 # FIFA20 Dashboard
 
 A visualization project on FIFA20 player ratings.
+https://laknaren16.github.io/fifa20-dashboard/index.html
 
 ## Documentation
 * [Project Proposal][doc-prop]
