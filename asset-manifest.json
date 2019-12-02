@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fifa20-dashboard/static/css/main.1b0ca3bc.chunk.css",
-    "main.js": "/fifa20-dashboard/static/js/main.0fd56411.chunk.js",
-    "main.js.map": "/fifa20-dashboard/static/js/main.0fd56411.chunk.js.map",
+    "main.js": "/fifa20-dashboard/static/js/main.d92a2b68.chunk.js",
+    "main.js.map": "/fifa20-dashboard/static/js/main.d92a2b68.chunk.js.map",
     "runtime-main.js": "/fifa20-dashboard/static/js/runtime-main.8fe15821.js",
     "runtime-main.js.map": "/fifa20-dashboard/static/js/runtime-main.8fe15821.js.map",
     "static/css/2.b0bb7f2c.chunk.css": "/fifa20-dashboard/static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.a7a57728.chunk.js": "/fifa20-dashboard/static/js/2.a7a57728.chunk.js",
-    "static/js/2.a7a57728.chunk.js.map": "/fifa20-dashboard/static/js/2.a7a57728.chunk.js.map",
+    "static/js/2.b50e04d0.chunk.js": "/fifa20-dashboard/static/js/2.b50e04d0.chunk.js",
+    "static/js/2.b50e04d0.chunk.js.map": "/fifa20-dashboard/static/js/2.b50e04d0.chunk.js.map",
     "index.html": "/fifa20-dashboard/index.html",
-    "precache-manifest.881dc2dc96b53e293635863e46a0ba31.js": "/fifa20-dashboard/precache-manifest.881dc2dc96b53e293635863e46a0ba31.js",
+    "precache-manifest.9cf504eeb122e49026c4197044c50597.js": "/fifa20-dashboard/precache-manifest.9cf504eeb122e49026c4197044c50597.js",
     "service-worker.js": "/fifa20-dashboard/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/fifa20-dashboard/static/css/2.b0bb7f2c.chunk.css.map",
     "static/css/main.1b0ca3bc.chunk.css.map": "/fifa20-dashboard/static/css/main.1b0ca3bc.chunk.css.map",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.8fe15821.js",
     "static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.a7a57728.chunk.js",
+    "static/js/2.b50e04d0.chunk.js",
     "static/css/main.1b0ca3bc.chunk.css",
-    "static/js/main.0fd56411.chunk.js"
+    "static/js/main.d92a2b68.chunk.js"
   ]
 }
