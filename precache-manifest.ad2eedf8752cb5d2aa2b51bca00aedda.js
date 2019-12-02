@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d16527b926b48705531472575fa21fd",
+    "revision": "2aab304cc13537e3df2d2030d4a28480",
     "url": "/fifa20-dashboard/index.html"
   },
   {
-    "revision": "1859e62e516a836c0955",
+    "revision": "d5e3842f0fbdebc85047",
     "url": "/fifa20-dashboard/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "44181e1f30fa3ac85649",
+    "revision": "4362f5f9dce3d24cbf9b",
     "url": "/fifa20-dashboard/static/css/main.1b0ca3bc.chunk.css"
   },
   {
-    "revision": "1859e62e516a836c0955",
-    "url": "/fifa20-dashboard/static/js/2.b50e04d0.chunk.js"
+    "revision": "d5e3842f0fbdebc85047",
+    "url": "/fifa20-dashboard/static/js/2.d2d5555f.chunk.js"
   },
   {
-    "revision": "44181e1f30fa3ac85649",
-    "url": "/fifa20-dashboard/static/js/main.d92a2b68.chunk.js"
+    "revision": "4362f5f9dce3d24cbf9b",
+    "url": "/fifa20-dashboard/static/js/main.e0046ee4.chunk.js"
   },
   {
     "revision": "7148621863f38be87e49",

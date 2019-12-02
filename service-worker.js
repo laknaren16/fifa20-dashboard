@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fifa20-dashboard/precache-manifest.9cf504eeb122e49026c4197044c50597.js"
+  "/fifa20-dashboard/precache-manifest.ad2eedf8752cb5d2aa2b51bca00aedda.js"
 );
 
 self.addEventListener('message', (event) => {
