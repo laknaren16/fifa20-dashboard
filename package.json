@@ -9,6 +9,7 @@
     "@devexpress/dx-react-grid-material-ui": "^2.3.0",
     "@material-ui/core": "^4.6.0",
     "@material-ui/icons": "^4.5.1",
+    "body-scroll-lock": "^2.6.4",
     "bootstrap": "^4.3.1",
     "d3": "^5.12.0",
     "gh-pages": "^2.1.1",
@@ -28,6 +29,8 @@
     "react-svg-radar-chart": "^1.2.0",
     "react-swipeable-views": "^0.13.3",
     "react-transition-group": "^4.3.0",
+    "reactour": "^1.15.5",
+    "styled-components": "^4.4.1",
     "typescript": "^3.7.2"
   },
   "scripts": {
